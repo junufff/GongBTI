@@ -1,0 +1,9 @@
+.App{
+
+  font-family: "Yeongdeok Snow Crab";
+}
+
+@font-face {
+  font-family:"Yeongdeok Snow Crab" ;
+  src: url(/src/assest/fonts/Yeongdeok\ Snow\ Crab.ttf);
+}
